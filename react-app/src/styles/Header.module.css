@@ -1,0 +1,18 @@
+.HeaderContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: whitesmoke;
+  height: 40px;
+}
+
+.Link {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+
+.ActiveButton {
+  color: rgb(64, 138, 207);
+  text-decoration: underline;
+}
