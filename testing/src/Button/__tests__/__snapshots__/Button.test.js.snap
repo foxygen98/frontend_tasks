@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should be clickable 1`] = `
+<DocumentFragment>
+  <button>
+    Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`<Button /> should render button 1`] = `
+<DocumentFragment>
+  <button>
+    Button
+  </button>
+</DocumentFragment>
+`;
